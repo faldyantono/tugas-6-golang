@@ -1,1 +1,1 @@
-# tugas-7-golang
+# tugas-6-golang
